@@ -10,14 +10,6 @@ Android OS enthusiast
 
 ---
 
-### Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FlokoROM&repo=manifesto&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akane-blue&repo=diary&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Koruri&repo=Koruri&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### Social
 
 [![](https://img.shields.io/mastodon/follow/1?domain=https%3A%2F%2Fmstdn.maud.io&style=social)](https://mstdn.maud.io/@hota)
