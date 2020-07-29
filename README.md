@@ -6,8 +6,6 @@ Android OS enthusiast
 
 [![lindwurm's github stats](https://github-readme-stats.vercel.app/api?username=lindwurm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindwurm)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### Social
