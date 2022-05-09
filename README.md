@@ -3,7 +3,13 @@
 # I'm hota
 
 - a.k.a. **lindwurm**
-- Android OS enthusiast
+- FLOSS enthusiast
+- Server management guy
+- *~~Android OS enthusiast~~ retired*
+
+If you're interested in supporting my activities, see my [GitHub Sponsors](https://github.com/sponsors/lindwurm) page!
+
+- [![GitHub Sponsors](https://img.shields.io/github/sponsors/lindwurm?logo=github&style=social)](https://github.com/sponsors/lindwurm)
 
 ## Stats
 
@@ -11,5 +17,5 @@
 
 ## Social
 
-[![](https://img.shields.io/mastodon/follow/1?domain=https%3A%2F%2Fmstdn.maud.io&style=social)](https://mstdn.maud.io/@hota)
-[![](https://img.shields.io/twitter/follow/lindwurm?style=social)](https://twitter.com/lindwurm)
+- [![](https://img.shields.io/mastodon/follow/1?domain=https%3A%2F%2Fmstdn.maud.io&style=social)](https://mstdn.maud.io/@hota)
+- [![](https://img.shields.io/twitter/follow/lindwurm?style=social)](https://twitter.com/lindwurm)
